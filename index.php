@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello 20241029Azure World!";
+echo "こんにちは世界！";
